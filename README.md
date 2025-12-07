@@ -28,7 +28,7 @@ Este projeto tem como objetivo **realizar o processo de solicitação de reembol
 
 1. **Clonar o repositório**:
   
-   git clone https://github.com/paulloroberto63/Reembolso.git
+   git clone https://github.com/paulloroberto63/Refund.git
 
 
 2. **Instalar as dependências**:
