@@ -41,3 +41,10 @@ npm install
 
 npm run dev
 
+
+### layouts da pagina
+
+<img width="2557" height="1315" alt="image" src="https://github.com/user-attachments/assets/8caa488c-4d10-4c0b-9b2d-9495a9362216" />
+
+<img width="2559" height="1318" alt="image" src="https://github.com/user-attachments/assets/68f5e03e-0c4b-4541-a2d9-75668d17a52f" />
+
