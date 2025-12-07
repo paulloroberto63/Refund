@@ -27,13 +27,17 @@ Este projeto tem como objetivo **realizar o processo de solicitação de reembol
 ### 🖥️ Como rodar o projeto localmente
 
 1. **Clonar o repositório**:
-   ```bash
+  
    git clone https://github.com/paulloroberto63/Reembolso.git
 
 
 2. **Instalar as dependências**:
 Navegue até a pasta do projeto e execute o comando:
-```bash
+
 npm install
 
+3. **Rodar a aplicação**:
+ Para rodar a aplicação localmente em modo de desenvolvimento, execute:
+
+npm run dev
 
