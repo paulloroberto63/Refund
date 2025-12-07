@@ -29,3 +29,11 @@ Este projeto tem como objetivo **realizar o processo de solicitação de reembol
 1. **Clonar o repositório**:
    ```bash
    git clone https://github.com/paulloroberto63/Reembolso.git
+
+
+2. **Instalar as dependências**:
+Navegue até a pasta do projeto e execute o comando:
+```bash
+npm install
+
+
