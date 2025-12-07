@@ -1,10 +1,7 @@
 # 📝 Solicitação de Reembolso de Despesas
 
-![Logo do Projeto](https://via.placeholder.com/150) <!-- Se tiver logo, substitua este link pela URL do seu logo -->
-
 ### 💡 Descrição
-Este projeto tem como objetivo **automatizar o processo de solicitação de reembolso de despesas**, fornecendo uma plataforma intuitiva onde os usuários podem registrar, enviar e acompanhar os reembolsos. A aplicação é moderna, responsiva e construída com as melhores práticas de desenvolvimento.
-
+Este projeto tem como objetivo **realizar o processo de solicitação de reembolso de despesas**.
 ---
 
 ### 🛠️ Tecnologias Utilizadas
@@ -22,11 +19,9 @@ Este projeto tem como objetivo **automatizar o processo de solicitação de reem
 ---
 
 ### 🚀 Funcionalidades
-- **Formulário de solicitação**: Permite ao usuário inserir informações detalhadas sobre suas despesas.
-- **Acompanhamento em tempo real**: O status do reembolso pode ser consultado a qualquer momento.
-- **Validação de dados**: Utiliza **Zod** para validação dos dados inseridos pelo usuário, garantindo dados precisos.
-- **Envio de dados via API**: A aplicação se comunica com o back-end utilizando **Axios**, garantindo um envio seguro e eficiente.
-
+- **Usuarios podem realizar uma solicitação de reembolso de despesas e inserir um comprovante de pagamento na solicitação.
+- **Gerentes podem administrar as solicitações dos usuarios e verificar os detalhes da solicitação.
+- **Gerentes conseguem administrar quantos usuarios fizeram a solicitação e filtrar usuarios especificos
 ---
 
 ### 🖥️ Como rodar o projeto localmente
